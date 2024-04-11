@@ -7,7 +7,7 @@
 * * *
 
 <p align="center" style="color:gray">
-  <img src="./SordlandMap/KOR_Map.png" alt="worldmap thumbnail" />
+  <img src="./SordlandMap/KOR_Map.png" alt="sordland thumbnail" />
   소르들란드 전도
 </p> 
 
