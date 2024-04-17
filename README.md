@@ -1,4 +1,5 @@
 # Suzerain-KOR-Map-Image
+
 <p align="center" style="color:gray">
   <img src="./logo_rizia.png" alt="rizia thumbnail" />
   리치아여 영원하라!
