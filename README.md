@@ -1,5 +1,12 @@
 # Suzerain-KOR-Map-Image
 <p align="center" style="color:gray">
+  <img src="./logo_rizia.png" alt="rizia thumbnail" />
+  리치아여 영원하라!
+</p> 
+
+* * *
+
+<p align="center" style="color:gray">
   <img src="./World_Map/Preview.png" alt="worldmap thumbnail" />
   1954년 메르코파 대륙 동부와 중부
 </p> 
